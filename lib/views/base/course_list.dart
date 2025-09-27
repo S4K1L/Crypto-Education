@@ -51,7 +51,6 @@ class CourseList extends StatelessWidget {
                 ],
               ),
             ),
-            Spacer(),
             CustomSvg(asset: AppIcons.navArrowRight),
           ],
         ),
